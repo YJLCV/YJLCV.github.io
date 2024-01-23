@@ -98,6 +98,32 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 </script>
 </td>
 <td valign="top" width="80%">
+  <a href="">
+    <papertitle_just>Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving</papertitle_just>     
+  </a>
+  <br>
+<strong>Yujun Liu</strong>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai
+<br>
+<em>CPE</em> JCR Q3 <br>
+<a href="">PDF</a>
+|
+<a href="">code</a>
+<p></p>
+</td>
+
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+</script>
+</td>
+<td valign="top" width="80%">
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7744">
     <papertitle_just>AAEE‐Net: Attention‐guided aggregation and error‐aware enhancement network for accurate and efficient stereo matching</papertitle_just>     
   </a>
@@ -118,8 +144,8 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 
   
 # 🎓 Educational Background
-- Sep'2021-Jul'2024: M.Eng (Computer Engineering), Jimei University, Xiamen.
-- Sep'2017-Jul'2021: B.Eng (Computer Engineering), Jimei University, Xiamen.
+- 9/2021-7/2024: M.Eng (Computer Science and Technology), Jimei University, Xiamen.
+- 9/2017-7/2021: B.Eng (Information and Communication Engineering), Jimei University, Xiamen.
 
 
 # 📌 Academic Services
