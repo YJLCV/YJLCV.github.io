@@ -104,7 +104,7 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
   <br>
 <strong>Yujun Liu</strong>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai
 <br>
-<em>CPE</em> JCR Q3 <br>
+<em>TITS</em> JCR Q1 <br>
 <a href="">PDF</a>
 |
 <a href="">code</a>
