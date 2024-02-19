@@ -105,9 +105,9 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 <strong>Yujun Liu</strong>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai
 <br>
 <em>TITS</em> JCR Q1 <br>
-<a href="">PDF</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10433888">PDF</a>
 |
-<a href="">code</a>
+<a href="https://github.com/YJLCV/Guard-Net">code</a>
 <p></p>
 </td>
 
