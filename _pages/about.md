@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- bundle exec jekyll serve -->
-I am a third-year M.S. student of the College of Computer Engineering, [Jimei University](https://cec.jmu.edu.cn/) in fall, 2021 and under the supervision of [Prof. Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm) and [Prof. Jinhe Su](https://cec.jmu.edu.cn/info/1009/4932.htm). I obtained my B.S. from [Jimei University](https://cec.jmu.edu.cn/). My research focuses on computer vision, remote sensing, and 3D reconstruction.
+I am a third-year M.S. student of the College of Computer Engineering, [Jimei University](https://cec.jmu.edu.cn/) in fall, 2021 and under the supervision of [Prof. Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm) and [Prof. Jinhe Su](https://cec.jmu.edu.cn/info/1009/4932.htm). I obtained my B.S. from [Jimei University](https://cec.jmu.edu.cn/). My research interest lies at the intersection of remote sensing and computer vision, particularly with applications in the built environment.
 
 
 # 🔔 News
@@ -98,7 +98,7 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="">
+  <a href="https://ieeexplore.ieee.org/abstract/document/10433888">
     <papertitle_just>Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving</papertitle_just>     
   </a>
   <br>
