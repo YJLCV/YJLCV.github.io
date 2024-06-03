@@ -12,6 +12,7 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 
 
 # 🔔 News
+- **2024/06/01**: CVPR Workshop 2024 —— Building3D Competition SECOND PLACE AWARD
 - **2024/01/19**: Guard-Net is accepted by IEEE TITS.
 
 # 🎉 Arxiv & Publications
@@ -124,8 +125,33 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 </script>
 </td>
 <td valign="top" width="80%">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811">
+    <papertitle_just>Giving Loss a Personal Course: Universal Loss Reweighting to Improve Stereo Matching via Uncertainty Guidance</papertitle_just>     
+  </a>
+  <br>
+<strong>Yujun Liu</strong>, Xiangchen Zhang, Qiaoqiao Hao, Yang Luo, Jinhe Su, Guorong Cai
+<br>
+<em>IVC</em> JCR Q2 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811">PDF</a>
+|
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811">code</a>
+<p></p>
+</td>
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+</script>
+</td>
+<td valign="top" width="80%">
   <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7744">
-    <papertitle_just>AAEE‐Net: Attention‐guided aggregation and error‐aware enhancement network for accurate and efficient stereo matching</papertitle_just>     
+    <papertitle_just>AAEE‐Net: Attention‐guided Aggregation and Error‐aware Enhancement Network for Accurate and Efficient Stereo Matching</papertitle_just>     
   </a>
   <br>
 <strong>Yujun Liu</strong>, Xiangchen Zhang, Jinhe Su, Guorong Cai
@@ -150,11 +176,14 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 
 # 📌 Academic Services
 - Reviewer for Journals: IEEE Transactions on Intelligent Transportation Systems (TITS)
+- Reviewer for Conferences: The 7th Chinese Conference on Pattern Recognition and Computer Vision
 
 
 # 🏆 Honors and Awards
 
+- Outstanding Master's Graduate Student, Jimei University, 2024.
 - China National Scholarship (highest scholarship given by the government of China), Jimei University, 2023.
+
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KKPhQ-LXT8mek63h4Oa8BltFlbFsTTwZkLrrWb3wFEs&cl=ffffff&w=a"></script>
