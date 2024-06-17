@@ -170,13 +170,13 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 
   
 # 🎓 Educational Background
-- 9/2021-7/2024: M.Eng (Computer Science and Technology), Jimei University, Xiamen.
-- 9/2017-7/2021: B.Eng (Information and Communication Engineering), Jimei University, Xiamen.
+- 9/2021-7/2024: M.Eng (Information and Communication Engineering), Jimei University, Xiamen.
+- 9/2017-7/2021: B.Eng (Computer Science and Technology), Jimei University, Xiamen.
 
 
 # 📌 Academic Services
 - Reviewer for Journals: IEEE Transactions on Intelligent Transportation Systems (TITS)
-- Reviewer for Conferences: The 7th Chinese Conference on Pattern Recognition and Computer Vision
+- Reviewer for Conferences: The 7th Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 
 
 # 🏆 Honors and Awards
