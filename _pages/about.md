@@ -182,6 +182,7 @@ I am a third-year M.S. student of the College of Computer Engineering, [Jimei Un
 # 🏆 Honors and Awards
 
 - Outstanding Master's Graduate Student, Jimei University, 2024.
+- Merit Student, Jimei University, 2023.
 - China National Scholarship (highest scholarship given by the government of China), Jimei University, 2023.
 
 
