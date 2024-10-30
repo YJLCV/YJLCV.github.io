@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- bundle exec jekyll serve -->
-I am a third-year M.S. student of the College of Computer Engineering, [Jimei University](https://cec.jmu.edu.cn/) in fall, 2021 and under the supervision of [Prof. Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm) and [Prof. Jinhe Su](https://cec.jmu.edu.cn/info/1009/4932.htm). I obtained my B.S. from [Jimei University](https://cec.jmu.edu.cn/). My research interest lies at the intersection of remote sensing and computer vision, particularly with applications in the built environment.
+I am currently a first-year Ph.D. student in the School of Architecture and Urban Planning at Shenzhen University, under the supervision of [Prof. Ruisheng Wang](https://scholar.google.com/citations?user=UWVhokgAAAAJ&hl=zh-CN&oi=ao). I earned both my Master's (2021-2024) and Bachelor's (2017-2021) degrees from the School of Computer Engineering at [Jimei University](https://cec.jmu.edu.cn/), advised by [Prof. Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm) and [Prof. Jinhe Su](https://cec.jmu.edu.cn/info/1009/4932.htm). My research interests lie at the intersection of remote sensing and computer vision, with a particular focus on applications within the built environment, including intelligent processing of point clouds and images, and 3D reconstruction.
 
 
 # 🔔 News
