@@ -181,7 +181,8 @@ I am currently a first-year Ph.D. student in the School of Architecture and Urba
 
 # 🏆 Honors and Awards
 
-- Outstanding Master's Graduate Student, Jimei University, 2024.
+- Outstanding Master's Thesis Award (4%), Jimei University, 2024.
+- Outstanding Master's Graduate Student (8%), Jimei University, 2024.
 - Merit Student, Jimei University, 2023.
 - China National Scholarship (highest scholarship given by the government of China), Jimei University, 2023.
 
