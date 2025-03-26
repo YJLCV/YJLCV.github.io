@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a first-year Ph.D. student in the School of Architecture and Urban Planning at ShenzhenUniversity, under the supervision of Prof. Ruisheng Wang, I eamed both my Master's (2021-2024) andBachelor's (2017-2021) degrees from the School of computer Engineering at Jimei University, advised byProf. Guorong Cai and Prof. jinhe Su. My research interests lie at the intersection of remote sensing andcomputer vision, with a particular focus on applications within the built environment, including intelligentprocessing of point clouds and images, and 3D reconstruction.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Object Detection, Stereo Matching, Foundation Models
+- **Remote Sensing:** Point Cloud, Building Reconstruction, GeoAI
 
 ## News
 
