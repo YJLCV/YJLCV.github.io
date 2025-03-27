@@ -1,36 +1,36 @@
 main:
 
-  - title: EdgeDiff: Edge-aware Diffusion Network for Building Reconstruction from Point Clouds
+  - title: "EdgeDiff: Edge-aware Diffusion Network for Building Reconstruction from Point Clouds"
     authors: <strong>Yujun Liu</strong>, Ruisheng Wang*, Shangfeng Huang, Guorong Cai
     conference_short: CVPR
-    conference: IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    conference: "IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
     notes: CCF-A
     pdf: https://yjlcv.github.io/
     code: https://yjlcv.github.io/
     image: ./assets/img/edgediff.png
 
-  - title: Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving
+  - title: "Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving"
     authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai*
     conference_short: TITS
-    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
+    conference: "IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024."
     notes: CCF-B, IF=7.9
     pdf: https://ieeexplore.ieee.org/abstract/document/10433888/
     code: https://github.com/YJLCV/Guard-Net
     image: ./assets/img/edgediff.png
 
-  - title: CSFNet: Cross-modal Semantic Focus Network for Semantic Segmentation of Large-Scale Point Clouds
+  - title: "CSFNet: Cross-modal Semantic Focus Network for Semantic Segmentation of Large-Scale Point Clouds"
     authors: Yang Luo, Ting Han, <strong>Yujun Liu</strong>, Jinhe Su, Yiping Chen, Jinyuan Li, Yundong Wu, Guorong Cai*
     conference_short: TGRS
-    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2025.
+    conference: "IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2025."
     notes: CCF-B, IF=7.9
     pdf: https://ieeexplore.ieee.org/abstract/document/10856216
     code: https://ieeexplore.ieee.org/abstract/document/10856216
     image: ./assets/img/edgediff.png
 
-  - title: Edge First: Edge-Guided Geometry for Superior 3D Roof Wireframe Reconstruction
+  - title: "Edge First: Edge-Guided Geometry for Superior 3D Roof Wireframe Reconstruction"
     authors: Qiaoqiao Hao, Ting Han, <strong>Yujun Liu</strong>, Shangfeng Huang, Duxin Zhu, Jinhe Su, Yundong Wu, Guorong Cai*
     conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025."
     notes: CCF-B
     pdf: https://ieeexplore.ieee.org/abstract/document/10888464
     code: https://ieeexplore.ieee.org/abstract/document/10888464
