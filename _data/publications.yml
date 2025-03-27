@@ -16,7 +16,7 @@ main:
     notes: CCF-B, IF=7.9
     pdf: https://ieeexplore.ieee.org/abstract/document/10433888/
     code: https://github.com/YJLCV/Guard-Net
-    image: ./assets/img/edgediff.png
+    image: ./assets/img/guard.png
 
   - title: "CSFNet: Cross-modal Semantic Focus Network for Semantic Segmentation of Large-Scale Point Clouds"
     authors: Yang Luo, Ting Han, <strong>Yujun Liu</strong>, Jinhe Su, Yiping Chen, Jinyuan Li, Yundong Wu, Guorong Cai*
@@ -25,7 +25,7 @@ main:
     notes: CCF-B, IF=7.9
     pdf: https://ieeexplore.ieee.org/abstract/document/10856216
     code: https://ieeexplore.ieee.org/abstract/document/10856216
-    image: ./assets/img/edgediff.png
+    image: ./assets/img/csfnet.png
 
   - title: "Edge First: Edge-Guided Geometry for Superior 3D Roof Wireframe Reconstruction"
     authors: Qiaoqiao Hao, Ting Han, <strong>Yujun Liu</strong>, Shangfeng Huang, Duxin Zhu, Jinhe Su, Yundong Wu, Guorong Cai*
@@ -34,4 +34,4 @@ main:
     notes: CCF-B
     pdf: https://ieeexplore.ieee.org/abstract/document/10888464
     code: https://ieeexplore.ieee.org/abstract/document/10888464
-    image: ./assets/img/edgediff.png
+    image: ./assets/img/edgefirst.png
