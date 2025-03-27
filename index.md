@@ -19,4 +19,6 @@ I am currently a first-year Ph.D. student in the School of Architecture and Urba
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/services.md %}
