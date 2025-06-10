@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">International Competitions</h4>
 <ul style="margin:0 0 5px;">
   <li><strong>2nd Place Award</strong>, <em>1st Building3D Challenge</em>, CVPR Workshop, 2024</li>
+  <li><strong>3rd Place Award</strong>, <em>2st Building3D Challenge</em>, CVPR Workshop, 2025</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Academic Honors</h4>
