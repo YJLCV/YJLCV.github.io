@@ -13,10 +13,10 @@ I am currently a first-year Ph.D. student in the School of Architecture and Urba
 
 ## News
 
-- **[Jun. 2025]** `CVPR 2025 Workshop`: Building3D Competition THIRD PLACE AWARD.
-- **[Feb. 2025]** Our paper about building reconstruction is accepted to `CVPR 2025`.
-- **[Jun. 2024]** `CVPR 2024 Workshop`: Building3D Competition SECOND PLACE AWARD.
-- **[Jan. 2024]** Our paper about stereo matching is accepted to `IEEE TITS`.
+- **[Jun. 2025]** CVPR 2025 Workshop: Building3D Competition THIRD PLACE AWARD.
+- **[Feb. 2025]** Our paper about building reconstruction is accepted to CVPR 2025.
+- **[Jun. 2024]** CVPR 2024 Workshop: Building3D Competition SECOND PLACE AWARD.
+- **[Jan. 2024]** Our paper about stereo matching is accepted to IEEE TITS.
 
 {% include_relative _includes/publications.md %}
 
