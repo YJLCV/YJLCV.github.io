@@ -7,7 +7,7 @@ main:
     notes: CCF-A
     pdf: https://yjlcv.github.io/
     code: https://yjlcv.github.io/
-    image: ./assets/img/edgediff.png
+    image: ./assets/img/edgediff.gif
 
   - title: "Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving"
     authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai*
