@@ -13,6 +13,7 @@ I am currently a second-year Ph.D. student in the School of Architecture and Urb
 
 ## News
 
+- **[Sept. 2025]** <b><i style="color:#c0392b">LiDAR 2025 (Wuhan)</i></b>: Outstanding Paper Award.  
 - **[Jun. 2025]** <b><i style="color:#c0392b">CVPR 2025 Workshop</i></b>: Building3D Competition THIRD PLACE AWARD.  
 - **[Feb. 2025]** Our paper about building reconstruction is accepted to <b><i style="color:#c0392b">CVPR 2025</i></b>.  
 - **[Jun. 2024]** <b><i style="color:#c0392b">CVPR 2024 Workshop</i></b>: Building3D Competition SECOND PLACE AWARD.  
