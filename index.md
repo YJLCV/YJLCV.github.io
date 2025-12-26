@@ -10,6 +10,7 @@ My name is Liu Yujun, a native of [Shanghang County](https://baike.baidu.com/ite
 
 - **Computer Vision:** Object Detection, Stereo Matching, Foundation Models
 - **Remote Sensing:** Point Cloud, Building Reconstruction, GeoAI
+- <b><i style="color:#c0392b">Please feel free to contact me if you’re interested in relevant research or would like to discuss potential collaborations!</i></b>
 
 ## News
 
