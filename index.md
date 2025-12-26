@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a second-year Ph.D. student in the School of Architecture and Urban Planning at Shenzhen University, under the supervision of [Prof. Ruisheng Wang](https://ruishengwang.github.io/), I eamed both my Master's (2021-2024) and Bachelor's (2017-2021) degrees from the School of Computer Engineering at Jimei University, advised by [Prof. Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm) and [Prof. jinhe Su](https://cec.jmu.edu.cn/info/1009/4932.htm). 
+My name is Liu Yujun, a native of [Shanghang County](https://baike.baidu.com/item/%E4%B8%8A%E6%9D%AD%E5%8E%BF/3449540), Longyan City, Fujian Province. I am currently a second-year Ph.D. student in the School of Architecture and Urban Planning at Shenzhen University, under the supervision of [Prof. Ruisheng Wang](https://ruishengwang.github.io/), I eamed both my Master's (2021-2024) and Bachelor's (2017-2021) degrees from the School of Computer Engineering at Jimei University, advised by [Prof. Guorong Cai](https://cec.jmu.edu.cn/info/1008/4123.htm) and [Prof. jinhe Su](https://cec.jmu.edu.cn/info/1009/4932.htm). 
 
 ## Research Interests
 
