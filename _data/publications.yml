@@ -1,4 +1,12 @@
 main:
+  - title: "Dynamic Intra-Inter Partition Learning for Building Reconstruction from Point Clouds"
+    authors: Xiang Ao, Ruisheng Wang*, <strong>Yujun Liu*</strong>, Nan Wang, Jinqun Xiao, Pituan Wu, Peicheng Zhou, Xian Qin
+    conference_short: ICASSP
+    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026."
+    notes: CCF-B
+    pdf: https://yjlcv.github.io/
+    code: https://yjlcv.github.io/
+    image: ./assets/img/icassp2026.png
 
   - title: "EdgeDiff: Edge-aware Diffusion Network for Building Reconstruction from Point Clouds"
     authors: <strong>Yujun Liu</strong>, Ruisheng Wang*, Shangfeng Huang, Guorong Cai
