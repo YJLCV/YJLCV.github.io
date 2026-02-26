@@ -5,8 +5,8 @@ main:
     conference_short: CVPR
     conference: "IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
     notes: CCF-A
-    pdf: https://yjlcv.github.io/
-    code: https://yjlcv.github.io/
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EdgeDiff_Edge-aware_Diffusion_Network_for_Building_Reconstruction_from_Point_Clouds_CVPR_2025_paper.pdf
+    code: https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EdgeDiff_Edge-aware_Diffusion_Network_for_Building_Reconstruction_from_Point_Clouds_CVPR_2025_paper.pdf
     image: ./assets/img/edgediff.gif
 
   - title: "Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving"
