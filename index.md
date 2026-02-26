@@ -14,6 +14,8 @@ My name is Liu Yujun, a native of [Shanghang County](https://baike.baidu.com/ite
 
 ## News
 
+- **[Feb. 2026]** Our paper about building reconstruction is accepted to <b><i style="color:#c0392b">CVPR 2026</i></b>.  
+- **[Jan. 2026]** Our paper about building reconstruction is accepted to <b><i style="color:#c0392b">ICASSP 2026</i></b>.  
 - **[Sept. 2025]** <b><i style="color:#c0392b">LiDAR 2025 (Wuhan)</i></b>: Outstanding Paper Award.  
 - **[Jun. 2025]** <b><i style="color:#c0392b">CVPR 2025 Workshop</i></b>: Building3D Competition THIRD PLACE AWARD.  
 - **[Feb. 2025]** Our paper about building reconstruction is accepted to <b><i style="color:#c0392b">CVPR 2025</i></b>.  
