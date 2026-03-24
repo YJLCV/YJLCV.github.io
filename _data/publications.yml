@@ -1,4 +1,13 @@
 main:
+  - title: "Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds"
+    authors: <strong>Yujun Liu</strong>, Ruisheng Wang*, Xiang Ao, Haoyuan Shen, Kuihao Wang, Kun Zhou, Qingquan Li 
+    conference_short: CVPR
+    conference: "IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
+    notes: CCF-A
+    pdf: https://yjlcv.github.io/
+    code: https://yjlcv.github.io/
+    image: ./assets/img/cvpr2026.gif
+  
   - title: "Dynamic Intra-Inter Partition Learning for Building Reconstruction from Point Clouds"
     authors: Xiang Ao, Ruisheng Wang*, <strong>Yujun Liu*</strong>, Nan Wang, Jinqun Xiao, Pituan Wu, Peicheng Zhou, Xian Qin
     conference_short: ICASSP
