@@ -6,6 +6,9 @@
   <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026)</li>
 </ul>
 <ul style="margin:0 0 5px;">
+  <li>The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</li>
+</ul>
+<ul style="margin:0 0 5px;">
   <li>The 18th European Conference on Computer Vision (ECCV 2026)</li>
 </ul>
 <ul style="margin:0 0 5px;">
