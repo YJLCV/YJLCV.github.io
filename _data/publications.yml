@@ -52,3 +52,12 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10888464
     code: https://ieeexplore.ieee.org/abstract/document/10888464
     image: ./assets/img/edgefirst.png
+
+  - title: "Giving Loss a Personal Course: Universal Loss Reweighting to Improve Stereo Matching via Uncertainty Guidance"
+    authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Qiaoqiao Hao, Yang Luo, Jinhe Su, Guorong Cai*
+    conference_short: IVC
+    conference: "Image and Vision Computing"
+    notes: JCR Q1
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811
+    code: https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811
+    image: ./assets/img/ivc.png
