@@ -61,3 +61,12 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811
     code: https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811
     image: ./assets/img/ivc.png
+
+  - title: "AAEE‐Net: Attention‐guided Aggregation and Error‐aware Enhancement Network for Accurate and Efficient Stereo Matching"
+    authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Jinhe Su, Guorong Cai*
+    conference_short: CPE
+    conference: "Concurrency and Computation: Practice and Experience"
+    notes: CCF-C
+    pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7744
+    code: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7744
+    image: ./assets/img/cpe.png
