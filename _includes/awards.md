@@ -8,6 +8,7 @@
 
 <h4 style="margin:0 10px 0;">Academic Honors</h4>
 <ul style="margin:0 0 5px;">
+  <li><b><i style="color:#dda15e">LiDAR 2025 (Wuhan): Outstanding Paper Award</i></b>, <em>China LiDAR Professional Committee</em>, 2025</li>
   <li><b><i style="color:#dda15e">Outstanding Master’s Thesis Award (Top 4%)</i></b>, <em>Jimei University</em>, 2024</li>
   <li><b><i style="color:#dda15e">Outstanding Master’s Graduate Student Award (Top 8%)</i></b>, <em>Jimei University</em>, 2024</li>
   <li><b><i style="color:#dda15e">Merit Student Award (Top 5%)</i></b>, <em>Jimei University</em>, 2023</li>
