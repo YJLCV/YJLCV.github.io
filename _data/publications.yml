@@ -1,6 +1,6 @@
 main:
   - title: "Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds"
-    authors: <strong>Yujun Liu</strong>, Ruisheng Wang*, Xiang Ao, Haoyuan Shen, Kuihao Wang, Kun Zhou, Qingquan Li 
+    authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Ruisheng Wang*, Xiang Ao, Haoyuan Shen, Kuihao Wang, Kun Zhou, Qingquan Li 
     conference_short: CVPR
     conference: "IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026."
     notes: CCF-A
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/cvpr2026.gif
   
   - title: "Dynamic Intra-Inter Partition Learning for Building Reconstruction from Point Clouds"
-    authors: Xiang Ao, Ruisheng Wang*, <strong>Yujun Liu*</strong>, Nan Wang, Jinqun Xiao, Pituan Wu, Peicheng Zhou, Xian Qin
+    authors: Xiang Ao, Ruisheng Wang*, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu*</span>, Nan Wang, Jinqun Xiao, Pituan Wu, Peicheng Zhou, Xian Qin
     conference_short: ICASSP
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026."
     notes: CCF-B
@@ -18,7 +18,7 @@ main:
     image: ./assets/img/icassp2026.png
 
   - title: "EdgeDiff: Edge-aware Diffusion Network for Building Reconstruction from Point Clouds"
-    authors: <strong>Yujun Liu</strong>, Ruisheng Wang*, Shangfeng Huang, Guorong Cai
+    authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Ruisheng Wang*, Shangfeng Huang, Guorong Cai
     conference_short: CVPR
     conference: "IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
     notes: CCF-A
@@ -27,7 +27,7 @@ main:
     image: ./assets/img/edgediff.gif
 
   - title: "Guard-Net: Lightweight Stereo Matching Network via Global and Uncertainty-Aware Refinement for Autonomous Driving"
-    authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai*
+    authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Xiangchen Zhang, Yang Luo, Qiaoqiao Hao, Jinhe Su, Guorong Cai*
     conference_short: TITS
     conference: "IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024."
     notes: CCF-B, IF=7.9
@@ -36,7 +36,7 @@ main:
     image: ./assets/img/guard.png
 
   - title: "CSFNet: Cross-modal Semantic Focus Network for Semantic Segmentation of Large-Scale Point Clouds"
-    authors: Yang Luo, Ting Han, <strong>Yujun Liu</strong>, Jinhe Su, Yiping Chen, Jinyuan Li, Yundong Wu, Guorong Cai*
+    authors: Yang Luo, Ting Han, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Jinhe Su, Yiping Chen, Jinyuan Li, Yundong Wu, Guorong Cai*
     conference_short: TGRS
     conference: "IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2025."
     notes: CCF-B, IF=7.9
@@ -45,7 +45,7 @@ main:
     image: ./assets/img/csfnet.png
 
   - title: "Edge First: Edge-Guided Geometry for Superior 3D Roof Wireframe Reconstruction"
-    authors: Qiaoqiao Hao, Ting Han, <strong>Yujun Liu</strong>, Shangfeng Huang, Duxin Zhu, Jinhe Su, Yundong Wu, Guorong Cai*
+    authors: Qiaoqiao Hao, Ting Han, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Shangfeng Huang, Duxin Zhu, Jinhe Su, Yundong Wu, Guorong Cai*
     conference_short: ICASSP
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025."
     notes: CCF-B
@@ -54,7 +54,7 @@ main:
     image: ./assets/img/edgefirst.png
 
   - title: "Giving Loss a Personal Course: Universal Loss Reweighting to Improve Stereo Matching via Uncertainty Guidance"
-    authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Qiaoqiao Hao, Yang Luo, Jinhe Su, Guorong Cai*
+    authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Xiangchen Zhang, Qiaoqiao Hao, Yang Luo, Jinhe Su, Guorong Cai*
     conference_short: IVC
     conference: "Image and Vision Computing"
     notes: JCR Q1
@@ -63,7 +63,7 @@ main:
     image: ./assets/img/ivc.png
 
   - title: "AAEE‐Net: Attention‐guided Aggregation and Error‐aware Enhancement Network for Accurate and Efficient Stereo Matching"
-    authors: <strong>Yujun Liu</strong>, Xiangchen Zhang, Jinhe Su, Guorong Cai*
+    authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Xiangchen Zhang, Jinhe Su, Guorong Cai*
     conference_short: CPE
     conference: "Concurrency and Computation: Practice and Experience"
     notes: CCF-C
