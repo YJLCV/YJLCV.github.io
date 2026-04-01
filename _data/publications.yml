@@ -56,7 +56,7 @@ main:
   - title: "Giving Loss a Personal Course: Universal Loss Reweighting to Improve Stereo Matching via Uncertainty Guidance"
     authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Xiangchen Zhang, Qiaoqiao Hao, Yang Luo, Jinhe Su, Guorong Cai*
     conference_short: IVC
-    conference: "Image and Vision Computing"
+    conference: "Image and Vision Computing, 2024."
     notes: JCR Q1
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811
     code: https://www.sciencedirect.com/science/article/abs/pii/S0262885624001811
@@ -65,7 +65,7 @@ main:
   - title: "AAEE‐Net: Attention‐guided Aggregation and Error‐aware Enhancement Network for Accurate and Efficient Stereo Matching"
     authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Xiangchen Zhang, Jinhe Su, Guorong Cai*
     conference_short: CPE
-    conference: "Concurrency and Computation: Practice and Experience"
+    conference: "Concurrency and Computation: Practice and Experience, 2023."
     notes: CCF-C
     pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7744
     code: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7744
