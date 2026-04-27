@@ -13,7 +13,7 @@ main:
     conference_short: ICASSP
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026."
     notes: CCF-B
-    pdf: https://yjlcv.github.io/
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11461510
     code: https://yjlcv.github.io/
     image: ./assets/img/icassp2026.png
 
