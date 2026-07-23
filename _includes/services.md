@@ -3,6 +3,9 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>The Association for the Advancement of Artificial Intelligence 2027 (AAAI 2027)</li>
+</ul>
+<ul style="margin:0 0 5px;">
   <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (CVPR 2026)</li>
 </ul>
 <ul style="margin:0 0 5px;">
