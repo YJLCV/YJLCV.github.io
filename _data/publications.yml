@@ -1,4 +1,13 @@
 main:
+  - title: "PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds"
+    authors: Haoyuan Shen, Kuihao Wang, Ruisheng Wang*, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu*</span>
+    conference_short: CVPR
+    conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2026."
+    notes: JCR Q1, IF=6.3
+    pdf: https://arxiv.org/pdf/2606.20455
+    code: https://huggingface.co/datasets/Haoyuan-Shen/PCFootprint
+    image: ./assets/img/pcfootprint.png
+    
   - title: "Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds"
     authors: <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Ruisheng Wang*, Xiang Ao, Haoyuan Shen, Kuihao Wang, Kun Zhou, Qingquan Li 
     conference_short: CVPR
