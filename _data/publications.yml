@@ -1,7 +1,7 @@
 main:
   - title: "PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds"
     authors: Haoyuan Shen, Kuihao Wang, Ruisheng Wang*, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu*</span>
-    conference_short: CVPR
+    conference_short: JSTARS
     conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2026."
     notes: JCR Q1, IF=6.3
     pdf: https://arxiv.org/pdf/2606.20455
