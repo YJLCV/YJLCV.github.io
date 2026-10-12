@@ -1,6 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 8px;">Publications</h2>
+<p style="font-size: 14px; opacity: 0.8; margin: 0;">&dagger; Equal contribution. * Corresponding author.</p>
 
-<div class="publications">
+<div class="publications" style="margin-top: 16px;">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
