@@ -14,7 +14,8 @@ My name is Yujun Liu, a native of [Shanghang County](https://baike.baidu.com/ite
 
 ## News
 
-- **[Oct. 2026]** Our paper about building footprint extraction is accepted to <b><i style="color:#c0392b">IEEE JSTARS</i></b>.  
+- **[Oct. 2026]** Our paper about building footprint extraction is accepted to <b><i style="color:#c0392b">IEEE JSTARS</i></b>.
+- **[Oct. 2026]** Our paper about panoramic depth estimation dataset is accepted to <b><i style="color:#c0392b">NeurIPS 2026</i></b>.
 - **[Jul. 2026]** Our paper about building footprint extraction is accepted to <b><i style="color:#c0392b">IEEE JSTARS</i></b>.  
 - **[Feb. 2026]** Our paper about building reconstruction is accepted to <b><i style="color:#c0392b">CVPR 2026</i></b>.  
 - **[Jan. 2026]** Our paper about building reconstruction is accepted to <b><i style="color:#c0392b">ICASSP 2026</i></b>.  
