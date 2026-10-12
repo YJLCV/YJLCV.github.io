@@ -1,4 +1,13 @@
 main:
+  - title: "PanoHK360: A Large-Scale 8K Urban Panoramic Dataset and Benchmark for Depth Estimation"
+    authors: Yunxiao Chen, Honghuan Lin, Ruisheng Wang*, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Kun Zhou, Shangfeng Huang, Tsz Nam Chan
+    conference_short: NeurIPS
+    conference: "Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026."
+    notes: CCF-A
+    pdf: https://szucyx.github.io/PanoHK360/assets/paper/PanoHK360.pdf
+    code: https://szucyx.github.io/PanoHK360/
+    image: ./assets/img/nips2026.gif
+    
   - title: "PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds"
     authors: Haoyuan Shen, Kuihao Wang, Ruisheng Wang*, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu*</span>
     conference_short: JSTARS
