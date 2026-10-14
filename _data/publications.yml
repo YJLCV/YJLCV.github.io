@@ -5,6 +5,7 @@ main:
     conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2026."
     notes: JCR Q1, IF=6.3
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11733820
+    code: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11733820
     image: ./assets/img/geometry-aware-footprint.png
 
   - title: "PanoHK360: A Large-Scale 8K Urban Panoramic Dataset and Benchmark for Depth Estimation"
