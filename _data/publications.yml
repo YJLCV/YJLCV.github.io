@@ -1,4 +1,12 @@
 main:
+  - title: "Geometry-Aware Building Footprint Extraction From ALS Point Clouds Via Bidirectional Encoding and Boundary Refinement"
+    authors: Kuihao Wang&dagger;, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu&dagger;</span>, Ruisheng Wang*, Haoyuan Shen, Kun Zhou, Bo Guo
+    conference_short: JSTARS
+    conference: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2026."
+    notes: JCR Q1, IF=6.3
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11733820
+    image: ./assets/img/geometry-aware-footprint.png
+
   - title: "PanoHK360: A Large-Scale 8K Urban Panoramic Dataset and Benchmark for Depth Estimation"
     authors: Yunxiao Chen, Honghuan Lin, Ruisheng Wang*, <span style="color:rgb(231,77,60);font-weight:bold;">Yujun Liu</span>, Kun Zhou, Shangfeng Huang, Tsz Nam Chan
     conference_short: NeurIPS
